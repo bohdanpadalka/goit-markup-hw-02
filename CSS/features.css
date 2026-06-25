@@ -1,0 +1,25 @@
+#features{
+    background: #FFFFFF;
+}
+
+#features h3{
+    font-family: Roboto;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+    leading-trim: NONE;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+
+#features .type{
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    leading-trim: NONE;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+}

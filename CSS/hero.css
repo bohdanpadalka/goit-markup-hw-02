@@ -1,0 +1,33 @@
+#hero{
+    background: #2E2F42;
+}
+
+.main-header{
+    font-family: Roboto;
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 56px;
+        leading-trim: NONE;
+        line-height: 60px;
+        letter-spacing: 2%;
+        text-align: center;
+        color: #FFFFFF;
+}
+
+.order-button {
+    background: #4D5AE5;
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    leading-trim: NONE;
+    line-height: 24px;
+    letter-spacing: 4%;
+    vertical-align: middle;
+}
+
+.order-button:hover,
+.order-button:focus {
+    color: #f54842;
+}
