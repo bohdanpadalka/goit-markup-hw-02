@@ -1,8 +1,8 @@
-.features{
+.features-one{
     background: #FFFFFF;
 }
 
-.features h3{
+.features-one .main-name{
     font-family: Roboto;
     font-weight: 500;
     font-style: normal;
@@ -13,7 +13,7 @@
     color: #2E2F42;
 }
 
-.features .type{
+.features-one .type{
     font-family: Roboto;
     font-weight: 400;
     font-style: normal;
