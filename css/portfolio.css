@@ -1,55 +1,40 @@
 .portfolio-list h3 {
-font-family: Roboto;
-font-weight: 500;
-font-style: normal;
-font-size: 20px;
-leading-trim: NONE;
-line-height: 24px;
-letter-spacing: 2%;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 24;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    font-family: Roboto;
 }
 
 .portfolio-list p {
-font-family: Roboto;
-font-weight: 400;
-font-style: Regular;
-font-size: 16px;
-leading-trim: NONE;
-line-height: 24px;
-letter-spacing: 2%;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+    font-family: Roboto;
 }
 
 .portfolio-list img {
-    width: 360;
-height: 300;
-min-width: 288px;
-max-width: 360px;
-min-height: 240px;
-max-height: 300px;
-angle: 0 deg;
-opacity: 1;
+    angle: 0 deg;
+    opacity: 1;
 
 }
 
 .main-topic {
-font-family: Roboto;
-font-weight: 700;
-font-style: Bold;
-font-size: 36px;
-leading-trim: NONE;
-line-height: 40px;
-letter-spacing: 2%;
-text-align: center;
-color: #2E2F42;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2E2F42;
+    font-family: Roboto;
 }
 
-#portfolio{
-    width: 1158;
-height: 1000;
-max-width: 1158px;
-padding-right: 15px;
-padding-left: 15px;
-gap: 72px;
-angle: 0 deg;
-opacity: 1;
-
+.portfolio{
+    opacity: 1;
 }

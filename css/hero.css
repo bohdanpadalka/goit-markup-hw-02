@@ -1,17 +1,17 @@
-#hero{
+.hero{
     background: #2E2F42;
 }
 
 .main-header{
     font-family: Roboto;
-        font-weight: 700;
-        font-style: Bold;
-        font-size: 56px;
-        leading-trim: NONE;
-        line-height: 60px;
-        letter-spacing: 2%;
-        text-align: center;
-        color: #FFFFFF;
+    font-style: Bold;
+    font-size: 56px;
+    leading-trim: NONE;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 700;
 }
 
 .order-button {
@@ -22,12 +22,13 @@
     font-style: Medium;
     font-size: 16px;
     leading-trim: NONE;
-    line-height: 24px;
-    letter-spacing: 4%;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     vertical-align: middle;
+    cursor: pointer;
 }
 
 .order-button:hover,
 .order-button:focus {
-    color: #f54842;
+    color: #404bbf;
 }

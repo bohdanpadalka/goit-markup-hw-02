@@ -3,15 +3,15 @@
     font-weight: 700;
     font-size: 18px;
     leading-trim: NONE;
-    line-height: 24px;
-    letter-spacing: 3%;
+    line-height: 1.5;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2E2F42;
 }
 
 .header-link:hover,
 .header-link:focus {
-    color: #e65100;
+    color: #404bbf;
 }
 
 .link-logo{
@@ -20,12 +20,13 @@
 
 .top-bar{
     font-family: Roboto;
-        font-weight: 500;
-        font-style: Medium;
-        font-size: 16px;
-        leading-trim: NONE;
-        line-height: 24px;
-        letter-spacing: 2%;
+    font-style: Medium;
+    font-size: 16px;
+    leading-trim: NONE;
+    line-height: 24px;
+    letter-spacing: 2%;
+    font-weight: 500;
+    color: #2e2f42;
 }
 
 .top-contacts {
@@ -35,10 +36,11 @@
     font-size: 16px;
     leading-trim: NONE;
     line-height: 24px;
-    letter-spacing: 2%
+    letter-spacing: 2%;
+    color: 434455;
 }
 
 .top-contacts .info:hover,
 .top-contacts .info:focus {
-    color: #e65100;
+    color: #404bbf;
 }
