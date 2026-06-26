@@ -24,11 +24,10 @@
     leading-trim: NONE;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    vertical-align: middle;
     cursor: pointer;
 }
 
 .order-button:hover,
 .order-button:focus {
-    color: #404bbf;
+    background-color: #404bbf;
 }

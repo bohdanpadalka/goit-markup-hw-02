@@ -29,6 +29,11 @@
     color: #2e2f42;
 }
 
+.top-bar:hover,
+.top-bar:focus {
+    color: #404bbf;
+}
+
 .top-contacts {
     font-family: Roboto;
     font-weight: 400;

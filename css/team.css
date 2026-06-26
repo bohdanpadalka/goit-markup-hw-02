@@ -2,11 +2,11 @@
     background: #F4F4FD;
 }
 
-.team-one .team-name{
+.team-name{
     font-family: Roboto;
     font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 2%;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     text-align: center;
     font-weight: 500;
     color: #2E2F42;
@@ -21,13 +21,13 @@
     font-weight: 400;
 }
 
-.team-one ul li{
+.team-item{
     background-color: #ffffff;
     angle: 0 deg;
     opacity: 1;
 }
 
-.team-one h2{
+.team-title{
     font-family: Roboto;
     font-weight: 700;
     font-style: Bold;
@@ -35,8 +35,4 @@
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-}
-
-.team-one div{
-    max-width: 1158px;
 }
